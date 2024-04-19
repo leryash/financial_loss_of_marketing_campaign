@@ -1,0 +1,2 @@
+# financial_loss_of_marketing_campaign
+Анализ бизнес-показателей развлекательного приложения.
